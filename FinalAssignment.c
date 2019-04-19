@@ -126,7 +126,7 @@ avg1=pp.turn_t;
 printf("\t\t\tTurn Around time : %f",pp.turn_t);
 printf("\t\t\t\tWaiting time : %f\n",pp.wait_t);	
 
-sleep(5);
+sleep(2);
 n=n-1;
 p++;
 }while(n!=0);
